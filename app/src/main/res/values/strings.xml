@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactsList</string>
+    <string-array name="categories_array">
+        <item>Work</item>
+        <item>Family</item>
+        <item>Friends</item>
+    </string-array>
+</resources>
